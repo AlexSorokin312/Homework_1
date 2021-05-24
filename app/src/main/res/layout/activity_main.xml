@@ -47,5 +47,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
+    <Button
+        android:id="@+id/task_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Задание 2"
+        android:layout_marginTop="150dp"
+        android:layout_gravity="center"/>
+
 
 </LinearLayout>
